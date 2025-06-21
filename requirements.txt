@@ -7,5 +7,4 @@ streamlit==1.18.0
 matplotlib==3.7.1
 seaborn==0.12.2
 numpy==1.24.3
-adwin
 joblib==1.2.0
