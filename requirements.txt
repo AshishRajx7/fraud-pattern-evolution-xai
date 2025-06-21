@@ -1,3 +1,5 @@
+pip
+joblib==1.2.0
 pandas
 scikit-learn
 imbalanced-learn
@@ -7,5 +9,4 @@ streamlit
 matplotlib
 seaborn
 adwin
-joblib
 numpy
