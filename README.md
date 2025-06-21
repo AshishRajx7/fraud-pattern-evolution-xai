@@ -4,6 +4,10 @@ A real-time fraud detection system with concept drift detection and SHAP-based m
 This project solves not just fraud classification but also addresses the changing nature of fraud patterns over time — a critical challenge in the financial industry.
 
 ---
+## Live Demo
+[Click here to access the live Streamlit app](https://fraud-pattern-evolution-xai-ct9fm6wfekxsygbmz65zup.streamlit.app/)
+
+---
 
 ## Project Overview
 
