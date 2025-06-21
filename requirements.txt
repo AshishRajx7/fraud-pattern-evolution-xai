@@ -6,3 +6,6 @@ river
 streamlit
 matplotlib
 seaborn
+adwin
+joblib
+numpy
